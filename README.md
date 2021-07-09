@@ -47,7 +47,6 @@ Banao task 2 is the shortlisting task for internship hiring given by [Banao Tech
 
 ## Powered By
 
-* [Bootstrap](https://getbootstrap.com/)
 * [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 
 
