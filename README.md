@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/Akash-Peace/REACTJS-FRONTEND-ADVANCED/blob/main/Screenshot/ATGWebCloneLogo.png" alt="Logo" width="150" height="150">
+  <img src="https://github.com/Akash-Peace/REACTJS-FRONTEND-ADVANCED/blob/main/Screenshot/task2.png" alt="Logo" width="150" height="150">
   <h3 align="center">BANAO TASK 2</h3>
   <p align="center">
     <a href="https://reactjs.org/"><strong>A Reactjs Webapp</strong></a>
